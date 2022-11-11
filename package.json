@@ -1,5 +1,5 @@
 {
-    "name": "discordbotlist",
+    "name": "cyclone-bot-list-reborm",
     "version": "4.5.9",
     "description": "A discord Bot list, more advanced then the template ;)",
     "main": "src/index.js",
@@ -34,9 +34,8 @@
     "devDependencies": {
         "nodemon": "2.0.4"
     },
-    "author:" "Tomato#6966",
     "engines": {
-        "node": "12.x"
+        "node": "14.x"
     },
     "_moduleAliases": {
         "@root": ".",
