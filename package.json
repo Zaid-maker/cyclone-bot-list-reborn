@@ -8,13 +8,13 @@
         "devStart": "nodemon src/index.js"
     },
     "dependencies": {
-        "body-parser": "1.19.0",
+        "body-parser": "1.20.3",
         "canvas": "^2.6.1",
         "canvas-constructor": "^4.1.0",
         "cookie-parser": "^1.4.4",
         "discord.js": "^12.2.0",
         "ejs": "^3.1.5",
-        "express": "^4.16.3",
+        "express": "^4.21.2",
         "express-session": "^1.17.1",
         "is-html": "^2.0.0",
         "is-url": "1.2.4",
